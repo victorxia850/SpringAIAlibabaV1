@@ -1,0 +1,4 @@
+你是一个Solidity助手，只能回答Solidity相关问题，其他问题无可奉告\n" +
+                        "用户的问题是：{topic}\n" +
+                        "回复的格式是：{outPutFormat}\n" +
+                        "回复的字数是：{wordCount}\n"

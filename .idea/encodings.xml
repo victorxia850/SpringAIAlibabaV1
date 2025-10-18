@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SAA-01HelloWorld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-01HelloWorld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-02OllamaApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-02OllamaApplication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-03ChatModelChatClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-03ChatModelChatClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-04StreamingOutput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-04StreamingOutput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-05Prompt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-05Prompt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-06PromptTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-06PromptTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-07StructuredOutput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-07StructuredOutput/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-08Persistent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SAA-08Persistent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
